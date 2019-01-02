@@ -48,3 +48,5 @@ fastlane
 # rvm
 .ruby-gemset
 .ruby-version
+Example/PagingMenuControllerDemo.xcworkspace/xcshareddata
+PagingMenuController.xcodeproj/project.xcworkspace/xcshareddata
