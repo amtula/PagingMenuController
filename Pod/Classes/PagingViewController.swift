@@ -9,7 +9,7 @@
 import UIKit
 
 open class PagingViewController: UIViewController {
-    open let controllers: [UIViewController]
+    public let controllers: [UIViewController]
     open internal(set) var currentViewController: UIViewController!
     open fileprivate(set) var visibleControllers = [UIViewController]()
     
